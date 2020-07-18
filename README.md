@@ -1,4 +1,4 @@
-# # Random Lipschitz Partition
+# Random Lipschitz Partition
 
 This is a non-Euclidean method for generating geometrically-regular partitions:
 Ideas based on random-metric partitions of Naor Assaf (https://web.math.princeton.edu/~naor/)'s paper:
