@@ -5,12 +5,14 @@ Ideas based on random-metric partitions of Naor Assaf (https://web.math.princeto
 https://web.math.princeton.edu/~naor/homepage%20files/EXTdiff.pdf
 
 
-Given a positive integer $N$ and a real-number, this codes partitions the space into N random subsets such that:
+Given a positive integer N and a real-number, this codes partitions the space into N random subsets such that:
 
  - Minimum probability that two nearby data-points are in different partitions,
  - Each has the same number of datapoints on average.
  
 Can be used in Architopes (see: https://arxiv.org/abs/2006.14378) to make the regression algorithm semi-supervised.  
+
+Can be interpreted as Lipschitz function from Euclidean space into Wasserstein-1 space thereon!  See linked paper of N. Assaf.
 
 
 ---------------------------------
