@@ -23,3 +23,9 @@ Additional/Related Literature:
 
 - Related blog-post on probabilistic properties of similar randomly generated metric ($\Delta$-bounded) partitions.  
 https://tcsmath.wordpress.com/2010/06/19/random-partitions-of-metric-spaces/
+
+
+
+------
+#### Note:
+I'll probably write a paper on this shortly, if anyone is interested email me :)
