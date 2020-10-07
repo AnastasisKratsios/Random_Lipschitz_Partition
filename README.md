@@ -12,9 +12,6 @@ Given a positive integer N and a real-number, this codes partitions the space in
  
 Can be used in Architopes (see: https://arxiv.org/abs/2006.14378) to make the regression algorithm semi-supervised.  
 
-Can be interpreted as Lipschitz function from Euclidean space into Wasserstein-1 space thereon!  See linked paper of N. Assaf.
-
-
 ---------------------------------
 Dataset used is the California Housing Market found here:
 https://github.com/bzamanlooy/Architopes/tree/master/data
